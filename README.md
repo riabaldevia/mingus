@@ -1,1 +1,3 @@
 # mingus
+
+What is mingus?
